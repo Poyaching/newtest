@@ -1,7 +1,7 @@
 public class HelloWorld {
 
     public static void main(String[] args) {
-        System.out.println("Hello, TEA102的各位");
+        System.out.println("Hello, TEA102的各位,第三版");
     }
 
 
